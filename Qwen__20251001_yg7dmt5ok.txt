@@ -1,0 +1,28 @@
+kenflix/
+├── backend/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── middleware/
+│   ├── utils/
+│   ├── config/
+│   └── server.js
+├── frontend-web/ (React)
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── services/
+│   │   ├── context/
+│   │   ├── utils/
+│   │   └── App.js
+│   └── package.json
+├── mobile/ (React Native)
+│   ├── src/
+│   │   ├── components/
+│   │   ├── screens/
+│   │   ├── services/
+│   │   ├── context/
+│   │   └── App.js
+│   └── package.json
+└── README.md
